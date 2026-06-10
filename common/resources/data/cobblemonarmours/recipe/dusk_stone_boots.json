@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["   ", "X X", "X X"],
+  "key": { "X": { "item": "cobblemon:dusk_stone" } },
+  "result": { "id": "cobblemonarmours:dusk_stone_boots", "count": 1 }
+}

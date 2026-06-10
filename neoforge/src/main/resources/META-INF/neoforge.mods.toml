@@ -1,17 +1,20 @@
 modLoader = "javafml"
 loaderVersion = "[1,)"
 #issueTrackerURL = "A valid URL to your issue tracker where people can open bug tickets"
-license = "MIT License"
+license = "All Rights Reserved"
 
 [[mods]]
 modId = "cobblemonarmours"
 version = "${version}"
-displayName = "Cobblemon Multiplatform-NeoForge Template Sidemod"
-authors = "Me!"
+displayName = "Cobblemon: Armours"
+authors = "DAN2026"
 description = '''
-A very cool multi-line description!
+Cobblemon Side-mod that introduces 10 evolution armour sets with set bonuses.
 '''
 #logoFile = ""
+
+[[mixins]]
+config = "cobblemonarmours.mixins.json"
 
 [[dependencies.cobblemonarmours]]
 modId = "minecraft"
@@ -43,7 +46,5 @@ side = "BOTH"
 
 [[dependencies.cobblemonarmours]]
 modId = "jei"
-mandatory = false
-versionRange = "[19,)"
-ordering = "NONE"
-side = "BOTH"
+type = "optional"
+versionRange = "[19.0,)"

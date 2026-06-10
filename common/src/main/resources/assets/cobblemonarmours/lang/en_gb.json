@@ -1,0 +1,54 @@
+{
+
+  "itemGroup.cobblemonarmours.cobble_armour_tab": "Cobblemon: Armour",
+
+  "item.cobblemonarmours.fire_stone_helmet": "Fire Stone Helmet",
+  "item.cobblemonarmours.fire_stone_chestplate": "Fire Stone Chestplate",
+  "item.cobblemonarmours.fire_stone_leggings": "Fire Stone Leggings",
+  "item.cobblemonarmours.fire_stone_boots": "Fire Stone Boots",
+
+  "item.cobblemonarmours.water_stone_helmet": "Water Stone Helmet",
+  "item.cobblemonarmours.water_stone_chestplate": "Water Stone Chestplate",
+  "item.cobblemonarmours.water_stone_leggings": "Water Stone Leggings",
+  "item.cobblemonarmours.water_stone_boots": "Water Stone Boots",
+
+  "item.cobblemonarmours.leaf_stone_helmet": "Leaf Stone Helmet",
+  "item.cobblemonarmours.leaf_stone_chestplate": "Leaf Stone Chestplate",
+  "item.cobblemonarmours.leaf_stone_leggings": "Leaf Stone Leggings",
+  "item.cobblemonarmours.leaf_stone_boots": "Leaf Stone Boots",
+
+  "item.cobblemonarmours.ice_stone_helmet": "Ice Stone Helmet",
+  "item.cobblemonarmours.ice_stone_chestplate": "Ice Stone Chestplate",
+  "item.cobblemonarmours.ice_stone_leggings": "Ice Stone Leggings",
+  "item.cobblemonarmours.ice_stone_boots": "Ice Stone Boots",
+
+  "item.cobblemonarmours.thunder_stone_helmet": "Thunder Stone Helmet",
+  "item.cobblemonarmours.thunder_stone_chestplate": "Thunder Stone Chestplate",
+  "item.cobblemonarmours.thunder_stone_leggings": "Thunder Stone Leggings",
+  "item.cobblemonarmours.thunder_stone_boots": "Thunder Stone Boots",
+
+  "item.cobblemonarmours.moon_stone_helmet": "Moon Stone Helmet",
+  "item.cobblemonarmours.moon_stone_chestplate": "Moon Stone Chestplate",
+  "item.cobblemonarmours.moon_stone_leggings": "Moon Stone Leggings",
+  "item.cobblemonarmours.moon_stone_boots": "Moon Stone Boots",
+
+  "item.cobblemonarmours.sun_stone_helmet": "Sun Stone Helmet",
+  "item.cobblemonarmours.sun_stone_chestplate": "Sun Stone Chestplate",
+  "item.cobblemonarmours.sun_stone_leggings": "Sun Stone Leggings",
+  "item.cobblemonarmours.sun_stone_boots": "Sun Stone Boots",
+
+  "item.cobblemonarmours.shiny_stone_helmet": "Shiny Stone Helmet",
+  "item.cobblemonarmours.shiny_stone_chestplate": "Shiny Stone Chestplate",
+  "item.cobblemonarmours.shiny_stone_leggings": "Shiny Stone Leggings",
+  "item.cobblemonarmours.shiny_stone_boots": "Shiny Stone Boots",
+
+  "item.cobblemonarmours.dusk_stone_helmet": "Dusk Stone Helmet",
+  "item.cobblemonarmours.dusk_stone_chestplate": "Dusk Stone Chestplate",
+  "item.cobblemonarmours.dusk_stone_leggings": "Dusk Stone Leggings",
+  "item.cobblemonarmours.dusk_stone_boots": "Dusk Stone Boots",
+
+  "item.cobblemonarmours.dawn_stone_helmet": "Dawn Stone Helmet",
+  "item.cobblemonarmours.dawn_stone_chestplate": "Dawn Stone Chestplate",
+  "item.cobblemonarmours.dawn_stone_leggings": "Dawn Stone Leggings",
+  "item.cobblemonarmours.dawn_stone_boots": "Dawn Stone Boots"
+}

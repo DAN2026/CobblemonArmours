@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["X X", "XXX", "XXX"],
+  "key": { "X": { "item": "cobblemon:ice_stone" } },
+  "result": { "id": "cobblemonarmours:ice_stone_chestplate", "count": 1 }
+}

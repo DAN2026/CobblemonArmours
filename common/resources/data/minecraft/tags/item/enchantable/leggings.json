@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "cobblemonarmours:fire_stone_leggings",
+    "cobblemonarmours:water_stone_leggings",
+    "cobblemonarmours:leaf_stone_leggings",
+    "cobblemonarmours:ice_stone_leggings",
+    "cobblemonarmours:thunder_stone_leggings",
+    "cobblemonarmours:moon_stone_leggings",
+    "cobblemonarmours:sun_stone_leggings",
+    "cobblemonarmours:shiny_stone_leggings",
+    "cobblemonarmours:dusk_stone_leggings",
+    "cobblemonarmours:dawn_stone_leggings"
+  ]
+}

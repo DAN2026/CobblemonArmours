@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["XXX", "X X", "X X"],
+  "key": { "X": { "item": "cobblemon:shiny_stone" } },
+  "result": { "id": "cobblemonarmours:shiny_stone_leggings", "count": 1 }
+}

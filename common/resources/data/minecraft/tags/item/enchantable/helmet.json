@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "cobblemonarmours:fire_stone_helmet",
+    "cobblemonarmours:water_stone_helmet",
+    "cobblemonarmours:leaf_stone_helmet",
+    "cobblemonarmours:ice_stone_helmet",
+    "cobblemonarmours:thunder_stone_helmet",
+    "cobblemonarmours:moon_stone_helmet",
+    "cobblemonarmours:sun_stone_helmet",
+    "cobblemonarmours:shiny_stone_helmet",
+    "cobblemonarmours:dusk_stone_helmet",
+    "cobblemonarmours:dawn_stone_helmet"
+  ]
+}

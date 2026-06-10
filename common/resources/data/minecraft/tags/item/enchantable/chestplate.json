@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "cobblemonarmours:fire_stone_chestplate",
+    "cobblemonarmours:water_stone_chestplate",
+    "cobblemonarmours:leaf_stone_chestplate",
+    "cobblemonarmours:ice_stone_chestplate",
+    "cobblemonarmours:thunder_stone_chestplate",
+    "cobblemonarmours:moon_stone_chestplate",
+    "cobblemonarmours:sun_stone_chestplate",
+    "cobblemonarmours:shiny_stone_chestplate",
+    "cobblemonarmours:dusk_stone_chestplate",
+    "cobblemonarmours:dawn_stone_chestplate"
+  ]
+}

@@ -1,20 +1,23 @@
 {
   "schemaVersion": 1,
-  "id": "cobblemon_multiplatform_mdk",
+  "id": "cobblemonarmours",
   "version": "${version}",
-  "name": "Cobblemon Multi-platform Fabric MDK",
-  "description": "A MDK useful for Fabric Development",
+  "name": "Cobblemon: Armours",
+  "description": "Cobblemon Side-mod that introduces 10 evolution armour sets with set bonuses.",
   "authors": [
-    "The Cobblemon Team"
+    "DAN2026"
   ],
-  "license": "MIT License",
-  "icon": "assets/example/icon.png",
+  "license": "All Rights Reserved",
+  "icon": "assets/icon/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.cobblemon.fabric.example.FabricModExample"
+      "net.dan2026.cobblemonarmours.fabric.CobblemonArmoursFabric"
     ]
   },
+  "mixins": [
+    "cobblemonarmours.mixins.json"
+  ],
   "depends": {
     "minecraft": "1.21.1",
     "cobblemon": ">=1.7.3 <1.8.0",

@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "net.dan2026.cobblemonarmours.forge.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "cobblemonarmours-neoforge-refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "RendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

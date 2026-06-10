@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["X X", "XXX", "XXX"],
+  "key": { "X": { "item": "cobblemon:thunder_stone" } },
+  "result": { "id": "cobblemonarmours:thunder_stone_chestplate", "count": 1 }
+}

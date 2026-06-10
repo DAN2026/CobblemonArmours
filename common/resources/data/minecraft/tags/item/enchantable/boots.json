@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "cobblemonarmours:fire_stone_boots",
+    "cobblemonarmours:water_stone_boots",
+    "cobblemonarmours:leaf_stone_boots",
+    "cobblemonarmours:ice_stone_boots",
+    "cobblemonarmours:thunder_stone_boots",
+    "cobblemonarmours:moon_stone_boots",
+    "cobblemonarmours:sun_stone_boots",
+    "cobblemonarmours:shiny_stone_boots",
+    "cobblemonarmours:dusk_stone_boots",
+    "cobblemonarmours:dawn_stone_boots"
+  ]
+}

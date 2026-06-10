@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Multi-Platform-Java.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Multi-Platform-Java.common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Multi-Platform-Java.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Multi-Platform-Java.common.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Multi-Platform-Java.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Multi-Platform-Java.common.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/Multi-Platform-Java.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/Multi-Platform-Java.fabric.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/Multi-Platform-Java.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/Multi-Platform-Java.fabric.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/Multi-Platform-Java.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/Multi-Platform-Java.neoforge.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/Multi-Platform-Java.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/Multi-Platform-Java.neoforge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/CobblemonArmours.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/CobblemonArmours.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/CobblemonArmours.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/CobblemonArmours.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/CobblemonArmours.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/CobblemonArmours.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/CobblemonArmours.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/CobblemonArmours.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/CobblemonArmours.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/CobblemonArmours.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/CobblemonArmours.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/CobblemonArmours.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/CobblemonArmours.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/CobblemonArmours.neoforge.test.iml" />
     </modules>
   </component>
 </project>

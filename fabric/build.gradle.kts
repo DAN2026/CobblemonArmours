@@ -13,8 +13,25 @@ loom {
     enableTransitiveAccessWideners.set(true)
     silentMojangMappingsLicense()
 
+    mixin.useLegacyMixinAp.set(true)
+    mixin.defaultRefmapName.set("cobblemonarmours-fabric-refmap.json")
+
+
+    runs {
+        named("client") {
+            configName = "Client: Fabric 1"
+            programArgs("--username", "Dev-1", "--uuid", "00000000-0000-0000-0000-000000000001")
+        }
+        create("client2") {
+            client()
+            configName = "Client: Fabric 2"
+            runDir("run2")
+            programArgs("--username", "Dev-2", "--uuid", "00000000-0000-0000-0000-000000000002")
+        }
+    }
+
     mixin {
-        defaultRefmapName.set("mixins.${project.name}.refmap.json")
+        defaultRefmapName.set("cobblemonarmours-fabric-refmap.json")
     }
 }
 
@@ -25,9 +42,7 @@ dependencies {
     mappings(loom.officialMojangMappings())
     modImplementation("net.fabricmc:fabric-loader:${property("fabric_loader_version")}")
 
-    modRuntimeOnly("net.fabricmc.fabric-api:fabric-api:${property("fabric_api_version")}")
-    modImplementation(fabricApi.module("fabric-command-api-v2", property("fabric_api_version").toString()))
-
+    modImplementation("net.fabricmc.fabric-api:fabric-api:${property("fabric_api_version")}")
     modImplementation("dev.architectury:architectury-fabric:${property("architectury_version")}")
 
     //needed for cobblemon
